@@ -29,6 +29,11 @@ Testing the webserver
 ## PROGRAM:
 
 ## OUTPUT:
+### Server output
+![ServerOutput](./!server output.png)
+
+### Client output
+![ServerOutput](./!client output-1.png>)
 
 ## RESULT:
 The program is executed succesfully
