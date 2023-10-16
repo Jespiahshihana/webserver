@@ -56,7 +56,7 @@ class MyServer(BaseHTTPRequestHandler):
         self.wfile.write(content.encode())
 
 print("This is my webserver") 
-server_address =('',8080)
+server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
@@ -65,10 +65,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### Server output
-![ServerOutput](server output-1.png)
+![ServerOutput](serveroutput.png)
 
 ### Client output
-![ServerOutput](client output-1.png)
-
+![ServerOutput](clientoutput.png)
 ## RESULT:
 The program is executed succesfully
