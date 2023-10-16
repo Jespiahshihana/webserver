@@ -41,6 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4.MERN Stack </h2>
+<h2>5.ASP.Net</h2>
 </body>
 </html>
 '''
@@ -63,10 +65,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### Server output
-![ServerOutput](server output.png)
+![ServerOutput](server output-1.png)
 
 ### Client output
-![ServerOutput](client output-1.png>)
+![ServerOutput](client output-1.png)
 
 ## RESULT:
 The program is executed succesfully
